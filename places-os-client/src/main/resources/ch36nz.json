@@ -1,0 +1,39 @@
+    {
+        "addresses": [
+            {
+                "address": "HOLLYBUSH FARM, CREWE BY FARNDON, CHESTER, CH3 6NZ",
+                "buildingName": "HOLLYBUSH FARM",
+                "buildingNumber": null,
+                "city": "CHESTER",
+                "dependentLocality": "CREWE BY FARNDON",
+                "doubleDependentLocality": "Tyre Industrial Estate",
+                "flatNumber": null,
+                "street": null,
+                "uprn": "200000829164"
+            },
+            {
+                "address": "HAWTHORN COTTAGE, CREWE BY FARNDON, CHESTER, CH3 6NZ",
+                "buildingName": "HAWTHORN COTTAGE",
+                "buildingNumber": null,
+                "city": "CHESTER",
+                "dependentLocality": "CREWE BY FARNDON",
+                "doubleDependentLocality": "Tyre Industrial Estate",
+                "flatNumber": null,
+                "street": null,
+                "uprn": "200000991392"
+            },
+            {
+                "address": "ROSE COTTAGE, CREWE BY FARNDON, CHESTER, CH3 6NZ",
+                "buildingName": "ROSE COTTAGE",
+                "buildingNumber": null,
+                "city": "CHESTER",
+                "dependentLocality": "CREWE BY FARNDON",
+                "doubleDependentLocality": null,
+                "flatNumber": null,
+                "street": null,
+                "uprn": "200000991393"
+            }
+        ],
+        "message": null,
+        "postCode": "CH36NZ"
+    }

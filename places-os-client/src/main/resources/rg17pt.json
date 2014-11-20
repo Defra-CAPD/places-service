@@ -1,0 +1,14 @@
+{
+    "postCode": "RG17PT",
+    "addresses": [
+        {
+            "uprn": "310002204",
+            "address": "YELL LTD, QUEENS WALK, READING, RG1 7PT",
+            "buildingNumber": null,
+            "buildingName": null,
+            "flatNumber": null,
+            "street": "QUEENS WALK",
+            "city": "READING"
+        }
+    ]
+}

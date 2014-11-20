@@ -1,0 +1,12 @@
+{ "addresses" : [
+    { "address" : "FLAT 1, PRIESTSTONE HOUSE, FRIAR STREET, LONDON, SW11 6DR",
+        "buildingNumber" : null,
+        "buildingName" : "PRIESTSTONE HOUSE",
+        "city" : "LONDON",
+        "flatNumber" : "FLAT 1",
+        "street" : "FRIAR STREET",
+        "uprn" : "100022631484"
+    }
+    ],
+    "postCode" : "SW116DR"
+}

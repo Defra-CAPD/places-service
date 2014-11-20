@@ -1,0 +1,527 @@
+{
+    "postCode": "RG17LB",
+    "addresses": [
+        {
+            "uprn": "310067346",
+            "address": "FLAT 1, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 1",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067347",
+            "address": "FLAT 2, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 2",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067348",
+            "address": "FLAT 3, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 3",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067349",
+            "address": "FLAT 4, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 4",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067350",
+            "address": "FLAT 5, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 5",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067351",
+            "address": "FLAT 6, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 6",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067352",
+            "address": "FLAT 7, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 7",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067353",
+            "address": "FLAT 8, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 8",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067354",
+            "address": "FLAT 9, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 9",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067355",
+            "address": "FLAT 10, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 10",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067356",
+            "address": "FLAT 11, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 11",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067357",
+            "address": "FLAT 12, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 12",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067358",
+            "address": "FLAT 14, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 14",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067359",
+            "address": "FLAT 15, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 15",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067360",
+            "address": "FLAT 16, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 16",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067361",
+            "address": "FLAT 17, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 17",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067362",
+            "address": "FLAT 18, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 18",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067363",
+            "address": "FLAT 19, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 19",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067364",
+            "address": "FLAT 20, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 20",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067365",
+            "address": "FLAT 21, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 21",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067366",
+            "address": "FLAT 22, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 22",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067367",
+            "address": "FLAT 23, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 23",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067368",
+            "address": "FLAT 24, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 24",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067369",
+            "address": "FLAT 25, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 25",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067370",
+            "address": "FLAT 26, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 26",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067371",
+            "address": "FLAT 27, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 27",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067372",
+            "address": "FLAT 28, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 28",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067373",
+            "address": "FLAT 29, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 29",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067374",
+            "address": "FLAT 30, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 30",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067375",
+            "address": "FLAT 31, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 31",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067376",
+            "address": "FLAT 32, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 32",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067377",
+            "address": "FLAT 33, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 33",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067378",
+            "address": "FLAT 34, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 34",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067379",
+            "address": "FLAT 35, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 35",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067380",
+            "address": "FLAT 36, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 36",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067381",
+            "address": "FLAT 37, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 37",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067382",
+            "address": "FLAT 38, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 38",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067383",
+            "address": "FLAT 39, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 39",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067384",
+            "address": "FLAT 40, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 40",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067385",
+            "address": "FLAT 41, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 41",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067386",
+            "address": "FLAT 42, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 42",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067387",
+            "address": "FLAT 43, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 43",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067388",
+            "address": "FLAT 44, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 44",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067389",
+            "address": "FLAT 45, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 45",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067390",
+            "address": "FLAT 46, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 46",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067391",
+            "address": "FLAT 47, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 47",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067392",
+            "address": "FLAT 48, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 48",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067393",
+            "address": "FLAT 49, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 49",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067394",
+            "address": "FLAT 50, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 50",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067395",
+            "address": "FLAT 51, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 51",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067396",
+            "address": "FLAT 52, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 52",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067397",
+            "address": "FLAT 53, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 53",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067398",
+            "address": "FLAT 54, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 54",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067399",
+            "address": "FLAT 55, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 55",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067400",
+            "address": "FLAT 56, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 56",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067401",
+            "address": "FLAT 57, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 57",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067402",
+            "address": "FLAT 58, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 58",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        },
+        {
+            "uprn": "310067403",
+            "address": "FLAT 59, MCILROYS BUILDING, 18, OXFORD ROAD, READING, RG1 7LB",
+            "buildingNumber": "18",
+            "buildingName": "MCILROYS BUILDING",
+            "flatNumber": "FLAT 59",
+            "street": "OXFORD ROAD",
+            "city": "READING"
+        }
+    ]
+}

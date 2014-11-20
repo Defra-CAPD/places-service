@@ -1,0 +1,21 @@
+http:
+  port: 9053
+  adminPort: 9054
+
+logging:
+  loggers:
+     uk.gov.defra: ALL
+  console:
+     enabled: true
+     # Do not display log statements below this threshold to stdout.
+     threshold: ALL
+
+     logFormat: '%level %date{ISO8601} | User ID: %mdc{callerId} | Caller: %mdc{callerIp} | Type: %param{type} | Severity: %param{severity} | Host: %mdc{host} | Location: %param{location} | %message %replace(exception=[%xException]){''^exception=\[\]$'',''''}%n%nopex'
+
+osPlaces:
+  dummy: true
+  url: 'https://api.ordnancesurvey.co.uk/places/v1/addresses/postcode'
+  key: 'INSERT API KEY'
+  timeout: 15000
+
+applicationVersionFilePath:
